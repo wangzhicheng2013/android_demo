@@ -1,0 +1,10 @@
+<resources>
+    <string name="hello">Hello MyBundleTest!</string>
+    <string name="app_name">MyBundleTest</string>
+    <string name="app_01">Bundle_01</string>
+    <string name="app_02">Bundle_02</string>
+    <string name="text_basic">Bundle Basic Data</string>
+    <string name="text_par">Bundle Parcelable Data</string>
+    <string name="text_ser">Bundle Seriable Data</string>
+    <string name="text_jump_back">Jump Back to Bundler01</string>
+</resources>
