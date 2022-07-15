@@ -8,7 +8,7 @@ android {
     defaultConfig {
         applicationId "com.camera.camera2testbed"
         minSdk 21
-        targetSdk 32
+        targetSdk 26
         versionCode 1
         versionName "1.0"
 
